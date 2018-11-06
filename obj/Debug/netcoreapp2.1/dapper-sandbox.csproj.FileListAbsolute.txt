@@ -1,0 +1,11 @@
+/home/syhn/projects/dapper-sandbox/bin/Debug/netcoreapp2.1/dapper-sandbox.deps.json
+/home/syhn/projects/dapper-sandbox/bin/Debug/netcoreapp2.1/dapper-sandbox.runtimeconfig.json
+/home/syhn/projects/dapper-sandbox/bin/Debug/netcoreapp2.1/dapper-sandbox.runtimeconfig.dev.json
+/home/syhn/projects/dapper-sandbox/bin/Debug/netcoreapp2.1/dapper-sandbox.dll
+/home/syhn/projects/dapper-sandbox/bin/Debug/netcoreapp2.1/dapper-sandbox.pdb
+/home/syhn/projects/dapper-sandbox/obj/Debug/netcoreapp2.1/dapper-sandbox.csprojAssemblyReference.cache
+/home/syhn/projects/dapper-sandbox/obj/Debug/netcoreapp2.1/dapper-sandbox.csproj.CoreCompileInputs.cache
+/home/syhn/projects/dapper-sandbox/obj/Debug/netcoreapp2.1/dapper-sandbox.AssemblyInfoInputs.cache
+/home/syhn/projects/dapper-sandbox/obj/Debug/netcoreapp2.1/dapper-sandbox.AssemblyInfo.cs
+/home/syhn/projects/dapper-sandbox/obj/Debug/netcoreapp2.1/dapper-sandbox.dll
+/home/syhn/projects/dapper-sandbox/obj/Debug/netcoreapp2.1/dapper-sandbox.pdb
