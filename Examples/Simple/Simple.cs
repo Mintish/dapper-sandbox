@@ -2,8 +2,12 @@ using System;
 using System.Data;
 using System.Linq;
 using Dapper;
-public static class Simple {
-    public static void Run(IDbConnection conn) {
+namespace dapper_sandbox.Examples.Simple
+{
+    public static class Simple
+    {
+        public static void Run(IDbConnection conn)
+        {
             const string sql = @"select 'John Doe' Name,
                                         '1234 S 84th St.' Line1,
                                         null Line2,
@@ -18,9 +22,10 @@ public static class Simple {
                                         'PA' State,
                                         '15006' Zip;";
 
-            var addresses = conn.Query<Address>(sql, new {});
+            var addresses = conn.Query<Address>(sql, new { });
 
             Console.WriteLine("=== Simple.cs ===");
             Console.WriteLine(string.Join("\r\n\r\n", addresses));
+        }
     }
 }

@@ -8,6 +8,7 @@ using System.Collections.Generic;
 using Microsoft.Extensions.Configuration.Json;
 using System.IO;
 using Microsoft.Extensions.Configuration;
+using dapper_sandbox.Examples;
 
 namespace dapper_sandbox
 {
