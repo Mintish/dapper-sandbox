@@ -10,9 +10,9 @@ namespace dapper_sandbox.Examples.Simple
         public string Zip { get; set; }
 
         public override string ToString() =>
-            string.Concat($"{Name}\r\n",
-                string.IsNullOrWhiteSpace(Line1) ? string.Empty : $"{Line1}\r\n",
-                string.IsNullOrWhiteSpace(Line2) ? string.Empty : $"{Line2}\r\n",
+            string.Concat($"{Name}\n",
+                string.IsNullOrWhiteSpace(Line1) ? string.Empty : $"{Line1}\n",
+                string.IsNullOrWhiteSpace(Line2) ? string.Empty : $"{Line2}\n",
                 $"{City}, {State} {Zip}");
     }
 }
